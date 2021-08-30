@@ -4,4 +4,4 @@ learning Nuxt js , practicing tutorials
 
 ...
 
-Vue js, Vuex , Vue-router
+Vue js, Vuex , Vue-router.. Vuetify
