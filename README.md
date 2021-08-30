@@ -1,3 +1,5 @@
 # Nuxt-Js
 
-learning Nuxt js , practicing tutorials
+learning Nuxt js , practicing tutorials 
+
+...
